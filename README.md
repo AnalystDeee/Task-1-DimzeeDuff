@@ -1,2 +1,2 @@
-# Task-1-DimzeeDuff
+# Task-2-DimzeeDuff
 Repository for Task-2
